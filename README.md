@@ -1,1 +1,1 @@
-# python_miniproj
+Casino slot machine based on Python language.
